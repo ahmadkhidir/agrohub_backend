@@ -34,6 +34,14 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+  ai:
+    build:
+      context: ./ai
+    restart: unless-stopped
+    ports:
+      - 8001:8001
+    volumes:
+      - ./ai:/app
 volumes:
   db-data:
 secrets:

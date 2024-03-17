@@ -4,12 +4,7 @@ from . import models
 
 # Register your models here.
 admin.site.register([
-    models.Farmer,
-    models.Farm,
-    models.FarmLocation,
-    models.FarmPhoto,
-    models.Crop,
-    models.SocialMedia
+    models.SocialMedia,
     ])
 
 @admin.register(models.User)

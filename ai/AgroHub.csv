@@ -1,0 +1,301 @@
+SN,Temperature,Rainfall,Humidity,Wind,Crop,Condition,Remedy
+1,25,10,70,15,rice,Normal,No specific remedy needed
+2,8,2,91,50,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+3,62,75,58,57,rice,Normal,No specific remedy needed
+4,15,45,95,25,rice,Abnormal,Improve drainage to avoid waterlogged conditions
+5,-1,65,23,0,rice,Abnormal,Protect crops from frost; increase temperature
+6,-9,53,76,67,rice,Abnormal,Protect crops from frost; reduce humidity
+7,2,27,31,30,rice,Normal,No specific remedy needed
+8,47,76,46,62,rice,Normal,No specific remedy needed
+9,68,60,96,59,rice,Abnormal,Improve ventilation to reduce humidity
+10,68,86,73,68,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+11,3,3,74,99,rice,Abnormal,Protect crops from frost; reduce wind exposure
+12,32,10,74,10,rice,Normal,No specific remedy needed
+13,28,48,64,92,rice,Normal,No specific remedy needed
+14,24,54,72,28,rice,Normal,No specific remedy needed
+15,39,66,19,82,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+16,99,78,80,79,rice,Abnormal,Protect crops from extreme heat; increase humidity
+17,2,94,34,50,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+18,93,43,41,78,rice,Abnormal,Protect crops from extreme heat; increase humidity
+19,53,4,57,70,rice,Normal,No specific remedy needed
+20,32,22,18,48,rice,Normal,No specific remedy needed
+21,14,42,60,97,rice,Normal,No specific remedy needed
+22,94,10,66,75,rice,Abnormal,Protect crops from extreme heat; increase humidity
+23,39,21,26,3,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+24,41,62,18,45,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+25,15,12,79,98,rice,Abnormal,"Reduce humidity, protect from excessive rainfall"
+26,81,1,27,41,rice,Abnormal,Protect crops from extreme heat; increase humidity
+27,71,63,23,9,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+28,7,63,67,47,rice,Normal,No specific remedy needed
+29,14,14,4,84,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+30,9,59,74,88,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+31,12,10,72,99,rice,Abnormal,Protect crops from frost; reduce wind exposure
+32,6,80,3,4,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+33,84,69,12,31,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+34,-15,57,84,87,rice,Abnormal,Protect crops from frost; increase temperature
+35,14,60,12,8,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+36,61,79,40,52,rice,Normal,No specific remedy needed
+37,97,55,42,57,rice,Normal,No specific remedy needed
+38,20,42,36,57,rice,Normal,No specific remedy needed
+39,54,17,23,80,rice,Normal,No specific remedy needed
+40,23,15,64,72,rice,Normal,No specific remedy needed
+41,28,45,78,15,rice,Normal,No specific remedy needed
+42,5,85,10,40,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+43,37,25,65,20,rice,Normal,No specific remedy needed
+44,-5,60,88,90,rice,Abnormal,Protect crops from frost; increase temperature
+45,18,70,15,5,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+46,70,20,70,35,rice,Normal,No specific remedy needed
+47,88,40,45,60,rice,Abnormal,Protect crops from extreme heat; increase humidity
+48,15,35,50,25,rice,Normal,No specific remedy needed
+49,45,90,35,10,rice,Abnormal,Adjust planting time to avoid excessive rainfall
+50,32,18,75,55,rice,Abnormal,"Increase humidity, protect from excessive sunlight"
+51,25,55,65,20,beans,Normal,No specific remedy needed
+52,10,90,15,30,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+53,30,30,70,25,beans,Normal,No specific remedy needed
+54,-2,70,85,80,beans,Abnormal,Protect crops from frost; increase temperature
+55,20,60,10,15,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+56,28,40,60,25,beans,Normal,No specific remedy needed
+57,22,35,40,50,beans,Abnormal,Protect crops from extreme heat; increase humidity
+58,18,45,50,20,beans,Normal,No specific remedy needed
+59,35,80,30,10,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+60,25,25,75,40,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+61,28,50,68,18,beans,Normal,No specific remedy needed
+62,15,85,20,35,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+63,32,25,72,28,beans,Normal,No specific remedy needed
+64,0,65,82,75,beans,Abnormal,Protect crops from frost; increase temperature
+65,22,58,15,20,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+66,26,42,58,22,beans,Normal,No specific remedy needed
+67,20,40,48,45,beans,Abnormal,Protect crops from extreme heat; increase humidity
+68,14,48,52,18,beans,Normal,No specific remedy needed
+69,30,75,35,12,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+70,23,28,70,38,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+71,24,55,62,15,beans,Normal,No specific remedy needed
+72,12,88,18,30,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+73,29,33,68,24,beans,Normal,No specific remedy needed
+74,-3,72,80,78,beans,Abnormal,Protect crops from frost; increase temperature
+75,21,62,12,18,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+76,27,38,59,23,beans,Normal,No specific remedy needed
+77,19,43,46,48,beans,Abnormal,Protect crops from extreme heat; increase humidity
+78,16,46,50,19,beans,Normal,No specific remedy needed
+79,33,78,32,14,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+80,25,27,72,36,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+81,26,52,65,28,beans,Normal,No specific remedy needed
+82,14,86,20,32,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+83,31,28,70,20,beans,Normal,No specific remedy needed
+84,-1,68,82,73,beans,Abnormal,Protect crops from frost; increase temperature
+85,20,60,14,22,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+86,25,40,56,24,beans,Normal,No specific remedy needed
+87,18,48,49,47,beans,Abnormal,Protect crops from extreme heat; increase humidity
+88,15,50,51,20,beans,Normal,No specific remedy needed
+89,30,72,28,16,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+90,22,32,68,40,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+91,26,55,60,15,beans,Normal,No specific remedy needed
+92,10,82,16,32,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+93,28,30,70,22,beans,Normal,No specific remedy needed
+94,-5,70,82,80,beans,Abnormal,Protect crops from frost; increase temperature
+95,20,62,14,18,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+96,25,40,55,23,beans,Normal,No specific remedy needed
+97,19,45,46,48,beans,Abnormal,Protect crops from extreme heat; increase humidity
+98,15,45,50,19,beans,Normal,No specific remedy needed
+99,30,80,32,14,beans,Abnormal,Adjust planting time to avoid excessive rainfall
+100,22,27,70,36,beans,Abnormal,"Increase humidity, protect from excessive sunlight"
+101,28,40,65,25,yam,Normal,No specific remedy needed
+102,15,85,18,40,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+103,32,25,72,30,yam,Normal,No specific remedy needed
+104,2,68,80,75,yam,Abnormal,Protect crops from frost; increase temperature
+105,22,58,15,20,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+106,26,42,58,22,yam,Normal,No specific remedy needed
+107,20,40,48,45,yam,Abnormal,Protect crops from extreme heat; increase humidity
+108,14,48,50,18,yam,Normal,No specific remedy needed
+109,30,72,28,15,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+110,23,32,68,38,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+111,26,55,60,15,yam,Normal,No specific remedy needed
+112,10,82,16,32,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+113,28,30,70,22,yam,Normal,No specific remedy needed
+114,0,70,82,80,yam,Abnormal,Protect crops from frost; increase temperature
+115,20,62,14,18,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+116,25,40,55,23,yam,Normal,No specific remedy needed
+117,19,45,46,48,yam,Abnormal,Protect crops from extreme heat; increase humidity
+118,15,45,50,19,yam,Normal,No specific remedy needed
+119,30,80,32,14,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+120,22,27,70,36,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+121,29,35,62,22,yam,Normal,No specific remedy needed
+122,16,80,20,38,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+123,31,28,70,25,yam,Normal,No specific remedy needed
+124,1,65,80,78,yam,Abnormal,Protect crops from frost; increase temperature
+125,23,60,15,25,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+126,25,42,58,22,yam,Normal,No specific remedy needed
+127,21,40,48,45,yam,Abnormal,Protect crops from extreme heat; increase humidity
+128,15,45,50,20,yam,Normal,No specific remedy needed
+129,32,72,28,15,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+130,22,32,68,40,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+131,28,55,60,15,yam,Normal,No specific remedy needed
+132,11,82,16,32,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+133,29,30,70,22,yam,Normal,No specific remedy needed
+134,0,70,82,80,yam,Abnormal,Protect crops from frost; increase temperature
+135,19,62,14,18,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+136,24,40,55,23,yam,Normal,No specific remedy needed
+137,18,45,46,48,yam,Abnormal,Protect crops from extreme heat; increase humidity
+138,16,45,50,19,yam,Normal,No specific remedy needed
+139,30,80,32,14,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+140,23,27,70,36,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+141,30,38,65,20,yam,Normal,No specific remedy needed
+142,17,78,22,35,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+143,33,30,72,28,yam,Normal,No specific remedy needed
+144,3,62,80,75,yam,Abnormal,Protect crops from frost; increase temperature
+145,24,58,15,20,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+146,26,42,58,22,yam,Normal,No specific remedy needed
+147,22,40,48,45,yam,Abnormal,Protect crops from extreme heat; increase humidity
+148,16,47,50,19,yam,Normal,No specific remedy needed
+149,34,75,28,15,yam,Abnormal,Adjust planting time to avoid excessive rainfall
+150,23,35,68,40,yam,Abnormal,"Increase humidity, protect from excessive sunlight"
+151,28,40,70,25,tomato,Normal,No specific remedy needed
+152,15,85,18,40,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+153,32,25,72,30,tomato,Normal,No specific remedy needed
+154,2,68,85,78,tomato,Abnormal,Protect crops from frost; increase temperature
+155,22,58,20,20,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+156,26,42,60,22,tomato,Normal,No specific remedy needed
+157,20,40,50,45,tomato,Abnormal,Protect crops from extreme heat; increase humidity
+158,14,50,50,18,tomato,Normal,No specific remedy needed
+159,30,72,28,15,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+160,23,32,68,40,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+161,28,55,60,15,tomato,Normal,No specific remedy needed
+162,10,82,16,32,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+163,29,30,70,22,tomato,Normal,No specific remedy needed
+164,0,70,82,80,tomato,Abnormal,Protect crops from frost; increase temperature
+165,19,62,14,18,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+166,24,40,55,23,tomato,Normal,No specific remedy needed
+167,18,45,46,48,tomato,Abnormal,Protect crops from extreme heat; increase humidity
+168,16,45,50,19,tomato,Normal,No specific remedy needed
+169,30,80,32,14,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+170,23,27,70,36,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+171,26,45,68,20,tomato,Normal,No specific remedy needed
+172,18,75,22,35,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+173,30,35,72,28,tomato,Normal,No specific remedy needed
+174,5,60,85,78,tomato,Abnormal,Protect crops from frost; increase temperature
+175,24,50,20,20,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+176,28,40,60,22,tomato,Normal,No specific remedy needed
+177,22,35,50,45,tomato,Abnormal,Protect crops from extreme heat; increase humidity
+178,16,50,50,18,tomato,Normal,No specific remedy needed
+179,32,70,28,15,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+180,20,30,68,40,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+181,28,55,60,15,tomato,Normal,No specific remedy needed
+182,11,82,16,32,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+183,29,30,70,22,tomato,Normal,No specific remedy needed
+184,0,70,82,80,tomato,Abnormal,Protect crops from frost; increase temperature
+185,19,62,14,18,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+186,24,40,55,23,tomato,Normal,No specific remedy needed
+187,18,45,46,48,tomato,Abnormal,Protect crops from extreme heat; increase humidity
+188,16,45,50,19,tomato,Normal,No specific remedy needed
+189,30,80,32,14,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+190,23,27,70,36,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+191,27,38,65,20,tomato,Normal,No specific remedy needed
+192,17,78,22,35,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+193,31,30,72,28,tomato,Normal,No specific remedy needed
+194,3,62,80,75,tomato,Abnormal,Protect crops from frost; increase temperature
+195,24,58,15,20,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+196,26,42,60,22,tomato,Normal,No specific remedy needed
+197,22,35,50,45,tomato,Abnormal,Protect crops from extreme heat; increase humidity
+198,16,50,50,18,tomato,Normal,No specific remedy needed
+199,34,70,28,15,tomato,Abnormal,Adjust planting time to avoid excessive rainfall
+200,23,30,68,40,tomato,Abnormal,"Increase humidity, protect from excessive sunlight"
+201,28,40,70,25,pepper,Normal,No specific remedy needed
+202,15,85,18,40,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+203,32,25,72,30,pepper,Normal,No specific remedy needed
+204,2,68,85,78,pepper,Abnormal,Protect crops from frost; increase temperature
+205,22,58,20,20,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+206,26,42,60,22,pepper,Normal,No specific remedy needed
+207,20,40,50,45,pepper,Abnormal,Protect crops from extreme heat; increase humidity
+208,14,50,50,18,pepper,Normal,No specific remedy needed
+209,30,72,28,15,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+210,23,32,68,40,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+211,28,55,60,15,pepper,Normal,No specific remedy needed
+212,10,82,16,32,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+213,29,30,70,22,pepper,Normal,No specific remedy needed
+214,0,70,82,80,pepper,Abnormal,Protect crops from frost; increase temperature
+215,19,62,14,18,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+216,24,40,55,23,pepper,Normal,No specific remedy needed
+217,18,45,46,48,pepper,Abnormal,Protect crops from extreme heat; increase humidity
+218,16,45,50,19,pepper,Normal,No specific remedy needed
+219,30,80,32,14,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+220,23,27,70,36,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+221,27,38,65,20,pepper,Normal,No specific remedy needed
+222,17,78,22,35,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+223,31,35,72,28,pepper,Normal,No specific remedy needed
+224,5,60,85,78,pepper,Abnormal,Protect crops from frost; increase temperature
+225,24,50,20,20,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+226,28,40,60,22,pepper,Normal,No specific remedy needed
+227,22,35,50,45,pepper,Abnormal,Protect crops from extreme heat; increase humidity
+228,16,50,50,18,pepper,Normal,No specific remedy needed
+229,34,70,28,15,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+230,23,30,68,40,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+231,26,45,68,20,pepper,Normal,No specific remedy needed
+232,18,75,22,35,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+233,30,35,72,28,pepper,Normal,No specific remedy needed
+234,5,60,85,78,pepper,Abnormal,Protect crops from frost; increase temperature
+235,24,50,20,20,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+236,28,40,60,22,pepper,Normal,No specific remedy needed
+237,22,35,50,45,pepper,Abnormal,Protect crops from extreme heat; increase humidity
+238,16,50,50,18,pepper,Normal,No specific remedy needed
+239,32,70,28,15,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+240,23,30,68,40,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+241,28,55,60,15,pepper,Normal,No specific remedy needed
+242,11,82,16,32,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+243,29,30,70,22,pepper,Normal,No specific remedy needed
+244,0,70,82,80,pepper,Abnormal,Protect crops from frost; increase temperature
+245,19,62,14,18,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+246,24,40,55,23,pepper,Normal,No specific remedy needed
+247,18,45,46,48,pepper,Abnormal,Protect crops from extreme heat; increase humidity
+248,16,45,50,19,pepper,Normal,No specific remedy needed
+249,30,80,32,14,pepper,Abnormal,Adjust planting time to avoid excessive rainfall
+250,23,27,70,36,pepper,Abnormal,"Increase humidity, protect from excessive sunlight"
+251,28,40,70,25,soybean,Normal,No specific remedy needed
+252,15,85,18,40,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+253,32,25,72,30,soybean,Normal,No specific remedy needed
+254,2,68,85,78,soybean,Abnormal,Protect crops from frost; increase temperature
+255,22,58,20,20,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+256,26,42,60,22,soybean,Normal,No specific remedy needed
+257,20,40,50,45,soybean,Abnormal,Protect crops from extreme heat; increase humidity
+258,14,50,50,18,soybean,Normal,No specific remedy needed
+259,30,72,28,15,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+260,23,32,68,40,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+261,28,55,60,15,soybean,Normal,No specific remedy needed
+262,10,82,16,32,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+263,29,30,70,22,soybean,Normal,No specific remedy needed
+264,0,70,82,80,soybean,Abnormal,Protect crops from frost; increase temperature
+265,19,62,14,18,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+266,24,40,55,23,soybean,Normal,No specific remedy needed
+267,18,45,46,48,soybean,Abnormal,Protect crops from extreme heat; increase humidity
+268,16,45,50,19,soybean,Normal,No specific remedy needed
+269,30,80,32,14,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+270,23,27,70,36,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+271,27,38,65,20,soybean,Normal,No specific remedy needed
+272,17,78,22,35,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+273,31,35,72,28,soybean,Normal,No specific remedy needed
+274,5,60,85,78,soybean,Abnormal,Protect crops from frost; increase temperature
+275,24,50,20,20,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+276,28,40,60,22,soybean,Normal,No specific remedy needed
+277,22,35,50,45,soybean,Abnormal,Protect crops from extreme heat; increase humidity
+278,16,50,50,18,soybean,Normal,No specific remedy needed
+279,34,70,28,15,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+280,23,30,68,40,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+281,26,45,68,20,soybean,Normal,No specific remedy needed
+282,18,75,22,35,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+283,30,35,72,28,soybean,Normal,No specific remedy needed
+284,5,60,85,78,soybean,Abnormal,Protect crops from frost; increase temperature
+285,24,50,20,20,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+286,28,40,60,22,soybean,Normal,No specific remedy needed
+287,22,35,50,45,soybean,Abnormal,Protect crops from extreme heat; increase humidity
+288,16,50,50,18,soybean,Normal,No specific remedy needed
+289,32,70,28,15,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+290,23,32,68,40,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+291,28,55,60,15,soybean,Normal,No specific remedy needed
+292,11,82,16,32,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+293,29,30,70,22,soybean,Normal,No specific remedy needed
+294,0,70,82,80,soybean,Abnormal,Protect crops from frost; increase temperature
+295,19,62,14,18,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"
+296,24,40,55,23,soybean,Normal,No specific remedy needed
+297,18,45,46,48,soybean,Abnormal,Protect crops from extreme heat; increase humidity
+298,16,45,50,19,soybean,Normal,No specific remedy needed
+299,30,80,32,14,soybean,Abnormal,Adjust planting time to avoid excessive rainfall
+300,23,27,70,36,soybean,Abnormal,"Increase humidity, protect from excessive sunlight"

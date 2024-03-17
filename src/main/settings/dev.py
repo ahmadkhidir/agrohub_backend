@@ -34,6 +34,8 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # Local apps
+    'forecasts',
+    'farmers',
     'users',
     'api_auth',
     # Third-party packages

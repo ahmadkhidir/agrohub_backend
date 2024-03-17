@@ -26,6 +26,7 @@ schema_view = get_schema_view(
 
 urlpatterns = [
     # app urls
+    path("farmers/", include('farmers.urls'), name="farmers"),
     path("users/", include('users.urls'), name="users"),
     path("auth/", include('api_auth.urls'), name="auth"),
     # rest_framework urls
