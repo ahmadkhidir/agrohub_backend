@@ -10,6 +10,8 @@ urlpatterns = [
     path('account/farm/photos/create/', views.FarmPhotoCreateAPIView.as_view(), name='farmer_photos_create'),
     # Farmer Profile
     path('profile/', views.FarmerAccountAPIView.as_view(), name='farmer_account'),
+    path('profile/public/', views.PublicFarmerAccountListAPIView.as_view(), name='public_farmer_list'),
+    path('profile/public/<slug:pk>/', views.PublicFarmerAccountAPIView.as_view(), name='public_farmer_detail'),
     path('profile/farm/<slug:pk>/', views.FarmAPIView.as_view(), name='farmer_farm'),
     path('profile/farm/location/<slug:pk>/', views.FarmLocationAPIView.as_view(), name='farmer_location'),
     path('profile/farm/photos/<slug:pk>/', views.FarmPhotoAPIView.as_view(), name='farmer_photos'),

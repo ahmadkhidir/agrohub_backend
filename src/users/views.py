@@ -17,7 +17,7 @@ class PublicUserAccountListAPIView(generics.ListAPIView):
 
 class PublicUserAccountAPIView(generics.RetrieveAPIView):
     """
-    This view is for viewing selected users (using username field) public profile.
+    This view is for retrieving users public profile.
     """
     queryset = User.objects.all()
     serializer_class = serializers.PublicUserAccountListSerializer

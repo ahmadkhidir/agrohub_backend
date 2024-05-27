@@ -5,7 +5,6 @@
 
 # Local development settings
 *.env
-**/.env_file/**
 
 # Database files
 db.sqlite3
@@ -15,10 +14,6 @@ db.sqlite3
 
 # Media files
 **/mediafiles/
-
-# Secret key
-*.secret_key
-**/.secrets/**
 
 # Configuration files
 *.config
@@ -34,3 +29,10 @@ db.sqlite3
 
 # Ignore macOS system files
 .DS_Store
+
+
+# Ignore development files
+.env_file/*
+
+# Ignore secrets
+.secrets/*/*

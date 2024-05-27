@@ -26,6 +26,7 @@ schema_view = get_schema_view(
 
 urlpatterns = [
     # app urls
+    path("forecasts/", include('forecasts.urls'), name="forecasts"),
     path("farmers/", include('farmers.urls'), name="farmers"),
     path("users/", include('users.urls'), name="users"),
     path("auth/", include('api_auth.urls'), name="auth"),

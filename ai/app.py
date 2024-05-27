@@ -11,14 +11,13 @@ def index():
     try:
         data = request.get_json()
     except:
-        data = {'Temperature': [0, 22, 10], 'Rainfall': [70, 35, 82], 'Humidity': [82, 50, 16], 'Wind': [80, 45, 32], 'Crop': ['pepper', 'tomato', 'pepper']}
+        raise ValueError("Invalid JSON data")
     assert data['Temperature'], "Temperature is required"
     assert data['Rainfall'], "Rainfall is required"
     assert data['Humidity'], "Humidity is required"
     assert data['Wind'], "Wind is required"
     assert data['Crop'], "Crop is required"
 
-    # data = {k: np.array(v) for k,v in data.items()}
     for k,v in data.items():
         if len(v) > 0 and isinstance(v[0], str):
             data[k] = np.array(v, dtype="object")

@@ -131,8 +131,8 @@ model = create_model(head_model, inputs, lp.num_classes)
 """Train the DNN model"""
 
 filepath = "./agrohub.keras"
-save_callback = keras.callbacks.ModelCheckpoint(filepath, monitor="loss", save_best_only=True)
-stopping_callback = keras.callbacks.EarlyStopping(monitor="loss", patience=3)
+save_callback = keras.callbacks.ModelCheckpoint(filepath, monitor="accuracy", save_best_only=True)
+stopping_callback = keras.callbacks.EarlyStopping(monitor="accuracy", patience=3)
 history = model.fit(
     X_train, y_train,
     batch_size=32, epochs=200,

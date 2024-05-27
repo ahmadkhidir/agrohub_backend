@@ -130,3 +130,18 @@ class FarmPhotoCreateAPIView(generics.CreateAPIView):
             return serializer.save()
         raise exceptions.AuthenticationFailed(util_status.NO_ACCESS)
 
+class PublicFarmerAccountListAPIView(generics.ListAPIView):
+    """
+    This view is for listing farmers public profile.
+    """
+    queryset = models.Farmer.objects.all()
+    serializer_class = serializers.PublicFarmerAccountListSerializer
+    permission_classes = (permissions.IsAuthenticated,)
+
+class PublicFarmerAccountAPIView(generics.RetrieveAPIView):
+    """
+    This view is for retrieving farmers public profile.
+    """
+    queryset = models.Farmer.objects.all()
+    serializer_class = serializers.PublicFarmerAccountDetailSerializer
+    permission_classes = (permissions.IsAuthenticated,)

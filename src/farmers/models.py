@@ -11,7 +11,7 @@ class Farm(BaseModel):
     owner = models.ForeignKey('Farmer', on_delete=models.CASCADE)
     name = models.CharField(max_length=300)
     description = models.TextField()
-    crops = models.ManyToManyField('FarmCrop', blank=True, null=True)
+    crops = models.ManyToManyField('FarmCrop', blank=True)
 
 
 class FarmLocation(BaseModel):

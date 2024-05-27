@@ -43,7 +43,7 @@ class FarmerAccountSerializer(serializers.ModelSerializer):
         # fields = '__all__'
         # extra_kwargs = {'user': {'write_only': True}}
 
-class PublicFarmerSerializer(serializers.ModelSerializer):
+class PublicFarmerAccountListSerializer(serializers.ModelSerializer):
     farm_count = serializers.SerializerMethodField()
 
     class Meta:
@@ -54,7 +54,7 @@ class PublicFarmerSerializer(serializers.ModelSerializer):
         return obj.farm_set.count()
 
 
-class PublicFarmerDetailSerializer(serializers.ModelSerializer):
+class PublicFarmerAccountDetailSerializer(serializers.ModelSerializer):
     farm = FarmSerializer(
         many=True, required=False, source='farm_set', read_only=True)
 
